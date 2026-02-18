@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sol",
+  "base_artist": "TORAUMA",
+  "createdAt": "2026-02-18T15:08:50.469969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hasta Que Salga El Sol (En Vivo)",
+      "artist": "Orion's",
+      "has_synced": false,
+      "path": "select/01_Hasta_Que_Salga_El_Sol_(En_Vivo)_Orion's.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Medita Sol",
+      "artist": "Los Abuelos de la Nada",
+      "has_synced": false,
+      "path": "select/02_Medita_Sol_Los_Abuelos_de_la_Nada.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Buenos Dias Señor Sol",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/03_Buenos_Dias_Señor_Sol_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sol Tapado",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/04_Sol_Tapado_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luna y sol",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/05_Luna_y_sol_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Por Donde Saldra El Sol?",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/06_Por_Donde_Saldra_El_Sol_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Raza del Sol - Alternate Version",
+      "artist": "Journey",
+      "has_synced": true,
+      "path": "select/07_La_Raza_del_Sol_-_Alternate_Version_Journey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Raza Del Sol",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/08_La_Raza_Del_Sol_Journey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Va Silvestre Bajo El Sol",
+      "artist": "Miguel Abuelo",
+      "has_synced": true,
+      "path": "select/09_Va_Silvestre_Bajo_El_Sol_Miguel_Abuelo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Primer Sol",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/10_El_Primer_Sol_Therion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sol Invictus",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/11_Sol_Invictus_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sommar och sol",
+      "artist": "Icona Pop",
+      "has_synced": true,
+      "path": "select/12_Sommar_och_sol_Icona_Pop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sol Océano (Remastered 2021)",
+      "artist": "Resplandor",
+      "has_synced": false,
+      "path": "select/13_Sol_Océano_(Remastered_2021)_Resplandor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dame Mi Sol",
+      "artist": "Zucchero",
+      "has_synced": false,
+      "path": "select/14_Dame_Mi_Sol_Zucchero.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Serenata In Sol",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/15_Serenata_In_Sol_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Un Ángel Como El Sol Tú Eres",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/16_Un_Ángel_Como_El_Sol_Tú_Eres_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sól á heyhóla",
+      "artist": "Benni Hemm Hemm",
+      "has_synced": false,
+      "path": "select/17_Sól_á_heyhóla_Benni_Hemm_Hemm.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sol",
+      "artist": "TORAUMA",
+      "has_synced": false,
+      "path": "select/pl_01_Sol_TORAUMA.txt"
+    }
+  ]
+}
